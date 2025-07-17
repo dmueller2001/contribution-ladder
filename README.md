@@ -1,4 +1,4 @@
-# Contribution Ladder Task Force
+# Contributor Ladder Task Force
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Together, these practices aim to improve contributor engagement, transparency, a
 
 ## Goals
 
-1. Define contribution ladders appropriate for LF/DT project types (code, specification, tooling, etc.).
+1. Define contributor ladders appropriate for LF/DT project types (code, specification, tooling, etc.).
 2. Recommend onboarding, mentorship, and recognition strategies to grow contributor engagement.
 3. Establish best practices for `ADOPTERS.md` files, including:
    - Clear definitions (e.g., direct vs. transitive adopters)
