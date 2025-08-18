@@ -1,0 +1,161 @@
+# CNCF Contributors – Projects Sitemap
+
+## Contributors > Projects
+
+### Page Sections
+- Open Source Beginners  
+- Unknown Terms?  
+- Contribution Opportunities  
+  - Mentorship Programs  
+  - Project Opportunities  
+  - Technical Advisory Groups (TAGs)  
+  - Community Groups  
+  - Ambassadors  
+- Projects  
+  - Graduated Projects  
+  - Incubating Projects  
+  - Sandbox Projects  
+  - Non-code Projects  
+- (Also includes Archived Projects, if present) :contentReference[oaicite:1]{index=1}
+
+### Graduated Projects  
+| Project Name | Focus | Primary Language |
+|--------------|-------|------------------|
+| Argo | Continuous Integration & Delivery | Go |
+| cert-manager | Security & Compliance | Go |
+| Cilium | Cloud Native Network | Go |
+| CloudEvents | Streaming & Messaging | Python |
+| containerd | Container Runtime | Go |
+| CoreDNS | Coordination & Service Discovery | Go |
+| CRI-O | Container Runtime | Go |
+| CubeFS | Cloud Native Storage | Go |
+| Dapr | Application Definition & Image Build | Go |
+| Envoy | Service Proxy | C++ |
+| etcd | Coordination & Service Discovery | Go |
+| Falco | Security & Compliance | C++ |
+| Fluentd | Observability | Ruby |
+| Flux | Continuous Integration & Delivery | Go |
+| Harbor | Container Registry | Go |
+| Helm | Application Definition & Image Build | Go |
+| in-toto | Security & Compliance | Python |
+| Istio | Service Mesh | Go |
+| Jaeger | Observability | Go |
+| KEDA | Scheduling & Orchestration | Go |
+| KubeEdge | Automation & Configuration | Go |
+| Kubernetes | Scheduling & Orchestration | Go |
+| Linkerd | Service Mesh | Go |
+| Open Policy Agent (OPA) | Security & Compliance | Go |
+| Prometheus | Observability | Go |
+| Rook | Cloud Native Storage | Go |
+| SPIFFE | Key Management | Shell |
+| SPIRE | Key Management | Go |
+| The Update Framework (TUF) | Security & Compliance | Python |
+| TiKV | Database | Rust |
+| Vitess | Database | Go |
+:contentReference[oaicite:2]{index=2}
+
+### Incubating Projects  
+| Project Name | Focus | Primary Language |
+|--------------|-------|------------------|
+| Artifact Hub | Application Definition & Image Build | TypeScript |
+| Backstage | Application Definition & Image Build | TypeScript |
+| Buildpacks | Application Definition & Image Build | Go |
+| Chaos Mesh | Chaos Engineering | Go |
+| Cloud Custodian | Automation & Configuration | Python |
+| Container Network Interface (CNI) | Cloud Native Network | Go |
+| Contour | Service Proxy | Go |
+| Cortex | Observability | Go |
+| Crossplane | Scheduling & Orchestration | Go |
+| Dragonfly | Container Registry | Go |
+| Emissary-Ingress | API Gateway | Python |
+| Flatcar Container Linux | Certified Kubernetes – Distribution | Python |
+| gRPC | Remote Procedure Call | C++ |
+| Karmada | Scheduling & Orchestration | Go |
+| Keptn | Continuous Integration & Delivery | Go |
+| Keycloak | Security & Compliance | Java |
+| Knative | Scheduling & Orchestration | Go |
+| Kubeflow | Scheduling & Orchestration | TypeScript |
+| Kubescape | Security & Compliance | Go |
+| KubeVela | Application Definition & Image Build | Go |
+| KubeVirt | Application Definition & Image Build | Go |
+| Kyverno | Security & Compliance | Go |
+| LitmusChaos | Chaos Engineering | Go |
+| Longhorn | Cloud Native Storage | Shell |
+| NATS | Streaming & Messaging | Go |
+| Notary Project | Security & Compliance | Go |
+| OpenCost | Continuous Optimization | Go |
+| OpenFeature | Feature Flagging | Python |
+| OpenKruise | Continuous Integration & Delivery | Go |
+| OpenTelemetry | Observability | Python |
+| OpenYurt | Automation & Configuration | Go |
+| Operator Framework | Application Definition & Image Build | Go |
+| Strimzi | Streaming & Messaging | Java |
+| Thanos | Observability | Go |
+| Volcano | Scheduling & Orchestration | Go |
+| wasmCloud | Scheduling & Orchestration | Rust |
+:contentReference[oaicite:3]{index=3}
+
+### Sandbox Projects  
+*(This category has a large number of active entries; below is a selection for illustrative purposes.)*
+
+| Project Name | Focus | Primary Language |
+|--------------|-------|------------------|
+| Aeraki Mesh | Service Mesh | Go |
+| Akri | Automation & Configuration | Rust |
+| Antrea | Cloud Native Network | Go |
+| Armada | Scheduling & Orchestration | Go |
+| Athenz | Key Management | Java |
+| Atlantis | Automation & Configuration | Go |
+| Bank-Vaults | Security & Compliance | Go |
+| BFES | Service Proxy | Go |
+| bpfman | Security & Compliance | Rust |
+| Capsule | Scheduling & Orchestration | Go |
+| Carina | Cloud Native Storage | Go |
+| Cartography | Security & Compliance | Python |
+| Carvel | Application Definition & Image Build | Go |
+| CDK for Kubernetes (CDK8s) | Automation & Configuration | JavaScript |
+| Chaosblade | Chaos Engineering | Go |
+| CloudNativePG | Database | Go |
+| Clusternet | Scheduling & Orchestration | Go |
+| Clusterpedia | Scheduling & Orchestration | Go |
+| CNI-Genie | Cloud Native Network | Go |
+| Confidential Containers | Security & Compliance | (unspecified) |
+| Connect RPC | Remote Procedure Call | Go |
+| ContainerSSH | Security & Compliance | Go |
+| Devfile | Application Definition & Image Build | Go |
+| DevSpace | Application Definition & Image Build | Go |
+| DevStream | Automation & Configuration | Python |
+| Dex | Security & Compliance | Go |
+| Distribution | Container Registry | Go |
+| Easegress | API Gateway | Go |
+| external-secrets | Security & Compliance | Go |
+| Fluid | Scheduling & Orchestration | Go |
+| Hyperlight | Container Runtime | Rust |
+| Inclavare Containers | Container Runtime | C |
+| Inspecto Gadget | Observability | C |
+| k0s | Certified Kubernetes – Distribution | Go |
+| k3s | Certified Kubernetes – Distribution | Go |
+| Kube-burner | Continuous Integration & Delivery | Go |
+| Kube-OVN | Cloud Native Network | Go |
+| KusionStack | Automation & Configuration | Go |
+| Kuma | Service Mesh | Go |
+| Lima | Container Runtime | Go |
+| Meshery | Automation & Configuration | JavaScript |
+| MetalLB | Service Proxy | Go |
+| Network Service Mesh | Cloud Native Network | Go |
+| OpenEBS | Cloud Native Storage | (unspecified) |
+| OpenGitOps | Continuous Integration & Delivery | (unspecified) |
+| PipeCD | Continuous Integration & Delivery | Go |
+| Pixie | Observability | C++ |
+| Pravega | Streaming & Messaging | Java |
+| sealer | Application Definition & Image Build | Go |
+| Spiral … etc. (there are many more)  
+:contentReference[oaicite:4]{index=4}
+
+### Non-code Projects  
+| Project Name | Focus | Primary Language |
+|--------------|-------|------------------|
+| Cloud Native Glossary | Definitions | Markdown |
+| Kubernetes Website | Kubernetes website and documentation | Markdown |
+| OpenTelemetry Website | OpenTelemetry website and documentation | Markdown |
+:contentReference[oaicite:5]{index=5}
