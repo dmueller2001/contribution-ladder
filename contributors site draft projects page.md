@@ -1,4 +1,4 @@
-# LFDT Contributors – Projects Sitemap
+# contributors.lfdt.io draft – Sitemap
 
 ## Contributors → Projects
 
