@@ -1,161 +1,82 @@
-# CNCF Contributors.LFDT.io Sitemap
+# LFDT Contributors – Projects Sitemap
 
-## Contributors > Projects
+## Contributors → Projects
 
 ### Page Sections
-- Open Source Beginners  
-- Unknown Terms?  
-- Contribution Opportunities  
-  - Mentorship Programs  
-  - Project Opportunities  
-  - Technical Advisory Groups (TAGs)  
-  - Community Groups  
-  - Ambassadors  
-- Projects  
-  - Graduated Projects  
-  - Incubating Projects  
-  - Sandbox Projects  
-  - Non-code Projects  
-- (Also includes Archived Projects, if present) :contentReference[oaicite:1]{index=1}
+- Open Source Beginners
+- Unknown Terms?
+- Contribution Opportunities
+  - Mentorship Programs
+  - Project Opportunities
+  - Technical Advisory Groups (TAGs)
+  - Community Groups
+  - Ambassadors
+- Projects
+  - Graduated Projects
+  - Incubating Projects
+  - Labs Projects
+  - Non-code Projects
 
-### Graduated Projects  
-| Project Name | Focus | Primary Language |
-|--------------|-------|------------------|
-| Argo | Continuous Integration & Delivery | Go |
-| cert-manager | Security & Compliance | Go |
-| Cilium | Cloud Native Network | Go |
-| CloudEvents | Streaming & Messaging | Python |
-| containerd | Container Runtime | Go |
-| CoreDNS | Coordination & Service Discovery | Go |
-| CRI-O | Container Runtime | Go |
-| CubeFS | Cloud Native Storage | Go |
-| Dapr | Application Definition & Image Build | Go |
-| Envoy | Service Proxy | C++ |
-| etcd | Coordination & Service Discovery | Go |
-| Falco | Security & Compliance | C++ |
-| Fluentd | Observability | Ruby |
-| Flux | Continuous Integration & Delivery | Go |
-| Harbor | Container Registry | Go |
-| Helm | Application Definition & Image Build | Go |
-| in-toto | Security & Compliance | Python |
-| Istio | Service Mesh | Go |
-| Jaeger | Observability | Go |
-| KEDA | Scheduling & Orchestration | Go |
-| KubeEdge | Automation & Configuration | Go |
-| Kubernetes | Scheduling & Orchestration | Go |
-| Linkerd | Service Mesh | Go |
-| Open Policy Agent (OPA) | Security & Compliance | Go |
-| Prometheus | Observability | Go |
-| Rook | Cloud Native Storage | Go |
-| SPIFFE | Key Management | Shell |
-| SPIRE | Key Management | Go |
-| The Update Framework (TUF) | Security & Compliance | Python |
-| TiKV | Database | Rust |
-| Vitess | Database | Go |
-:contentReference[oaicite:2]{index=2}
+---
 
-### Incubating Projects  
-| Project Name | Focus | Primary Language |
-|--------------|-------|------------------|
-| Artifact Hub | Application Definition & Image Build | TypeScript |
-| Backstage | Application Definition & Image Build | TypeScript |
-| Buildpacks | Application Definition & Image Build | Go |
-| Chaos Mesh | Chaos Engineering | Go |
-| Cloud Custodian | Automation & Configuration | Python |
-| Container Network Interface (CNI) | Cloud Native Network | Go |
-| Contour | Service Proxy | Go |
-| Cortex | Observability | Go |
-| Crossplane | Scheduling & Orchestration | Go |
-| Dragonfly | Container Registry | Go |
-| Emissary-Ingress | API Gateway | Python |
-| Flatcar Container Linux | Certified Kubernetes – Distribution | Python |
-| gRPC | Remote Procedure Call | C++ |
-| Karmada | Scheduling & Orchestration | Go |
-| Keptn | Continuous Integration & Delivery | Go |
-| Keycloak | Security & Compliance | Java |
-| Knative | Scheduling & Orchestration | Go |
-| Kubeflow | Scheduling & Orchestration | TypeScript |
-| Kubescape | Security & Compliance | Go |
-| KubeVela | Application Definition & Image Build | Go |
-| KubeVirt | Application Definition & Image Build | Go |
-| Kyverno | Security & Compliance | Go |
-| LitmusChaos | Chaos Engineering | Go |
-| Longhorn | Cloud Native Storage | Shell |
-| NATS | Streaming & Messaging | Go |
-| Notary Project | Security & Compliance | Go |
-| OpenCost | Continuous Optimization | Go |
-| OpenFeature | Feature Flagging | Python |
-| OpenKruise | Continuous Integration & Delivery | Go |
-| OpenTelemetry | Observability | Python |
-| OpenYurt | Automation & Configuration | Go |
-| Operator Framework | Application Definition & Image Build | Go |
-| Strimzi | Streaming & Messaging | Java |
-| Thanos | Observability | Go |
-| Volcano | Scheduling & Orchestration | Go |
-| wasmCloud | Scheduling & Orchestration | Rust |
-:contentReference[oaicite:3]{index=3}
+### Graduated Projects
 
-### Sandbox Projects  
-*(This category has a large number of active entries; below is a selection for illustrative purposes.)*
+- **Hyperledger Besu** – An open-source Ethereum client under Apache 2.0, written in Java.  
+- **Hyperledger Cacti** – A tool framework for securely integrating and coordinating different blockchain networks.  
+- **Hyperledger Fabric** – A modular, permissioned blockchain framework for enterprise-grade distributed ledger solutions.  
+- **Hyperledger FireFly** – A “Supernode” stack to enable enterprises to build secure Web3 applications via APIs and orchestrated workflows.  
+- **Hyperledger Indy** – A purpose-built distributed ledger for decentralized identities (DIDs), with tools for independent identity solutions.  
+- **Hyperledger Iroha** – A simple, C++–based distributed ledger framework for digital asset management and enterprise usage.  
 
-| Project Name | Focus | Primary Language |
-|--------------|-------|------------------|
-| Aeraki Mesh | Service Mesh | Go |
-| Akri | Automation & Configuration | Rust |
-| Antrea | Cloud Native Network | Go |
-| Armada | Scheduling & Orchestration | Go |
-| Athenz | Key Management | Java |
-| Atlantis | Automation & Configuration | Go |
-| Bank-Vaults | Security & Compliance | Go |
-| BFES | Service Proxy | Go |
-| bpfman | Security & Compliance | Rust |
-| Capsule | Scheduling & Orchestration | Go |
-| Carina | Cloud Native Storage | Go |
-| Cartography | Security & Compliance | Python |
-| Carvel | Application Definition & Image Build | Go |
-| CDK for Kubernetes (CDK8s) | Automation & Configuration | JavaScript |
-| Chaosblade | Chaos Engineering | Go |
-| CloudNativePG | Database | Go |
-| Clusternet | Scheduling & Orchestration | Go |
-| Clusterpedia | Scheduling & Orchestration | Go |
-| CNI-Genie | Cloud Native Network | Go |
-| Confidential Containers | Security & Compliance | (unspecified) |
-| Connect RPC | Remote Procedure Call | Go |
-| ContainerSSH | Security & Compliance | Go |
-| Devfile | Application Definition & Image Build | Go |
-| DevSpace | Application Definition & Image Build | Go |
-| DevStream | Automation & Configuration | Python |
-| Dex | Security & Compliance | Go |
-| Distribution | Container Registry | Go |
-| Easegress | API Gateway | Go |
-| external-secrets | Security & Compliance | Go |
-| Fluid | Scheduling & Orchestration | Go |
-| Hyperlight | Container Runtime | Rust |
-| Inclavare Containers | Container Runtime | C |
-| Inspecto Gadget | Observability | C |
-| k0s | Certified Kubernetes – Distribution | Go |
-| k3s | Certified Kubernetes – Distribution | Go |
-| Kube-burner | Continuous Integration & Delivery | Go |
-| Kube-OVN | Cloud Native Network | Go |
-| KusionStack | Automation & Configuration | Go |
-| Kuma | Service Mesh | Go |
-| Lima | Container Runtime | Go |
-| Meshery | Automation & Configuration | JavaScript |
-| MetalLB | Service Proxy | Go |
-| Network Service Mesh | Cloud Native Network | Go |
-| OpenEBS | Cloud Native Storage | (unspecified) |
-| OpenGitOps | Continuous Integration & Delivery | (unspecified) |
-| PipeCD | Continuous Integration & Delivery | Go |
-| Pixie | Observability | C++ |
-| Pravega | Streaming & Messaging | Java |
-| sealer | Application Definition & Image Build | Go |
-| Spiral … etc. (there are many more)  
-:contentReference[oaicite:4]{index=4}
+---
 
-### Non-code Projects  
-| Project Name | Focus | Primary Language |
-|--------------|-------|------------------|
-| Cloud Native Glossary | Definitions | Markdown |
-| Kubernetes Website | Kubernetes website and documentation | Markdown |
-| OpenTelemetry Website | OpenTelemetry website and documentation | Markdown |
-:contentReference[oaicite:5]{index=5}
+### Incubating Projects
+
+- **Hyperledger AnonCreds** – A verifiable credentials format commonly applied in identity systems.  
+- **Hyperledger Bevel** – A framework scaffolding enterprise blockchain deployments, offering best practices and automation.  
+- **Hyperledger Caliper** – A benchmarking tool designed to measure performance across blockchain implementations.  
+- **CREDEBL** – A decentralized identity and verifiable credentials management platform.  
+- **Hiero** – The LFDT project name for the Hedera codebase, now governed under vendor-neutral stewardship.  
+- **Hyperledger Identus** – Components and tools for building self-sovereign identity (SSI) systems.  
+- **Lockness** – A toolkit ecosystem centered on key management and digital signature protocols.  
+- **Smoot** – A modular interoperability framework supporting cross-blockchain communication.  
+- **Solang** – A Rust-based Solidity compiler targeting platforms such as Solana and Substrate.  
+- **Web3j** – A Java/Android reactive library providing smart contract and Ethereum integration.  
+
+---
+
+### Labs Projects
+
+LFDT Labs serves as an incubator space where ideas can flourish before moving into formal project status. Labs allow for experimentation, demos, hackathon outputs, or proof-of-concept code.
+
+Examples of existing Labs:
+
+- **Blockchain Explorer** – A tool for exploring blockchain transaction data and network state.  
+- **Blockchain Automation Framework Lab** – Tools to streamline deployment and management of blockchain components.  
+- **Solang Lab** – Experimental implementation of the Solang compiler in LFDT’s lab environment.  
+- **AI FAQ 2025** – Research-oriented initiative focused on applying AI to LFDT use cases.  
+- **YUI Lab** – Experiments in user interface and developer experience design.  
+- **Agora** – A collaborative environment for decentralized governance and decision-making.  
+- **Open Enterprise Agent** – Early exploration of verifiable credential agents for enterprises.  
+
+More details on each lab (including descriptions, repositories, and stewards) are available through the LFDT Labs GitHub organization or Wiki.
+
+---
+
+### Non-code Projects
+
+LFDT encourages contributions beyond code, including:
+
+- **Documentation Initiatives** – Guides, glossaries, or walkthroughs that improve project onboarding, usage, and standards.  
+- **Community Outreach** – Supporting regional chapters, meetups, mailing lists, Discord engagement, and website content improvements.  
+- **Governance & Policy Documents** – Contributions to proposal templates, project charter content, branding & guidelines, and codes of conduct.  
+
+---
+
+### Summary
+
+This site map includes:
+
+- All core sections under **Contributors → Projects**, with LFDT-specific listings.  
+- Brief descriptions for **Graduated**, **Incubating**, **Labs**, and **Non-code** initiatives.  
+- Clean GitHub-safe formatting for lists, links, and headings.  
