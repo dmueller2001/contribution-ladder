@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This task force is focused on developing best practices and reusable guidance to help LF Decentralized Trust (LF/DT) projects onboard, grow, and recognize contributors. Our scope includes:
+This task force is focused on developing best practices and reusable guidance to help LF Decentralized Trust (LF/DT) projects onboard new contributors, grow more maintaners, and recognize contributions of all types to LFDT projects and initiatives. Our scope includes:
 
 - Defining contributor ladders to support progression from first-time contributors to maintainers and project leaders.
 - Establishing guidance for `ADOPTERS.md` files as tools for trust, visibility, and identifying future contributors from end-user organizations.
