@@ -4,7 +4,7 @@
 
 ### Page Sections
 - Open Source Beginners
-- LFDT Glossary
+- LFDT Glossary of Terms
 - Contribution Opportunities
   - Mentorship Programs
   - Project Opportunities
