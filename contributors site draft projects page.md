@@ -8,9 +8,8 @@
 - Contribution Opportunities
   - Mentorship Programs
   - Project Opportunities
-  - Technical Advisory Groups (TAGs)
+  - Contributor Strategy Task Force (Ladder)
   - Community Groups
-  - Ambassadors
 - Projects
   - Graduated Projects
   - Incubating Projects
